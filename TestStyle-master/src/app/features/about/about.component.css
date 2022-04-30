@@ -1,0 +1,16 @@
+.btn {
+border: blue;
+}
+
+.btn :hover {
+border:5px solid #392970;
+
+}
+
+.about-header {
+font-family: 'Courier New', Courier, monospace;
+
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
